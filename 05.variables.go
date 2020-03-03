@@ -41,6 +41,12 @@ func main() {
 	// %T for types and %v for value
 	fmt.Printf("\nTipo: %T Valor: %v", height2, height2)
 
+	// CONST
+	const PI = 3.14
+	//MYCONST := "CONST" --impossible
+	mymax := math.Max(3,5);
+	println(PI)
+
 
 
 }
